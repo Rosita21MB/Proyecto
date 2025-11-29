@@ -1,0 +1,62 @@
+[
+    {
+        "id": "319124af-c7cf-4bc0-9457-0c126e20bd32",
+        "filename": "data/binaries\\319124af-c7cf-4bc0-9457-0c126e20bd3220251128225208.bin",
+        "environment": "dev",
+        "status": "signed",
+        "uploaded_at": "2025-11-28T22:52:08.924424",
+        "signed_path": "C:\\Users\\rsyme\\Downloads\\ProyectoFinal_Entrega\\ProyectoFinal_Entrega\\data\\signed\\signed_319124af-c7cf-4bc0-9457-0c126e20bd3220251128225208.bin",
+        "signature": "0f472e03f609b24703638334f4f1917be04b3da074d3a081533d1d4ee4e619b8",
+        "timestamp": "2025-11-28T22:52:08.925661"
+    },
+    {
+        "id": "08ad2d3f-b9a9-4546-82c1-168d1aa3965a",
+        "filename": "data/binaries\\08ad2d3f-b9a9-4546-82c1-168d1aa3965a20251128225219.bin",
+        "environment": "prod",
+        "status": "pending",
+        "uploaded_at": "2025-11-28T22:52:19.460516",
+        "signed_path": null,
+        "signature": null,
+        "timestamp": "2025-11-28T22:52:19.462412"
+    },
+    {
+        "id": "779eefed-cbda-45ec-beec-b5677a804163",
+        "filename": "data/binaries\\779eefed-cbda-45ec-beec-b5677a80416320251128225258.bin",
+        "environment": "prod",
+        "status": "pending",
+        "uploaded_at": "2025-11-28T22:52:58.118612",
+        "signed_path": null,
+        "signature": null,
+        "timestamp": "2025-11-28T22:52:58.121335"
+    },
+    {
+        "id": "2c0a0984-6aea-416d-b791-d0bca1a186d8",
+        "filename": "data/binaries\\2c0a0984-6aea-416d-b791-d0bca1a186d820251128225535.bin",
+        "environment": "prod",
+        "status": "pending",
+        "uploaded_at": "2025-11-28T22:55:35.858764",
+        "signed_path": null,
+        "signature": null,
+        "timestamp": "2025-11-28T22:55:35.867453"
+    },
+    {
+        "id": "c646e263-219a-478b-8d2c-82d1115895cf",
+        "filename": "data/binaries\\c646e263-219a-478b-8d2c-82d1115895cf20251128225730.bin",
+        "environment": "prod",
+        "status": "signed",
+        "uploaded_at": "2025-11-28T22:57:30.040787",
+        "signed_path": "C:\\Users\\rsyme\\Downloads\\ProyectoFinal_Entrega\\ProyectoFinal_Entrega\\data\\signed\\signed_c646e263-219a-478b-8d2c-82d1115895cf20251128225730.bin",
+        "signature": "0f472e03f609b24703638334f4f1917be04b3da074d3a081533d1d4ee4e619b8",
+        "timestamp": "2025-11-28T22:57:30.041636"
+    },
+    {
+        "id": "91846f06-362b-4680-94cc-6d271670802d",
+        "filename": "data/binaries\\91846f06-362b-4680-94cc-6d271670802d20251128225751.bin",
+        "environment": "dev",
+        "status": "signed",
+        "uploaded_at": "2025-11-28T22:57:51.387686",
+        "signed_path": "C:\\Users\\rsyme\\Downloads\\ProyectoFinal_Entrega\\ProyectoFinal_Entrega\\data\\signed\\signed_91846f06-362b-4680-94cc-6d271670802d20251128225751.bin",
+        "signature": "0f472e03f609b24703638334f4f1917be04b3da074d3a081533d1d4ee4e619b8",
+        "timestamp": "2025-11-28T22:57:51.389071"
+    }
+]
