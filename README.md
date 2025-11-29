@@ -4,7 +4,7 @@
 | Subject         | Software Architectures                  |
 |-----------------|-----------------------------------------|
 | Title           | Final Project                           |
-| Owner           | Misael Espinoza Pacheco (023000278@upsrj.edu.mx) |
+| Owner           | Rosaura Mendoza Barragan(023000360@upsrj.edu.mx) |
 
 
 ## Deployment URL Diagram
